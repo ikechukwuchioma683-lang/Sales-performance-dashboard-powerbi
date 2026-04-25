@@ -1,4 +1,4 @@
-# Sales-performance-dashboard-power bi
+# Sales Performance Dashboard (Power BI)
 
 ## 📊 Project Overview
 
@@ -44,5 +44,12 @@ This project analyzes sales performance data to track revenue, profit, customer 
 * Certain brands contribute more to overall profit
 * Customer purchasing behavior varies by income level
 
-Download the Power BI file or explore the visuals in the screenshot for full insights.
+## 📎 Project Files
 
+* Power BI Dashboard (.pbix)
+* Dataset
+* Dashboard Screenshot
+
+## 🔗 View Project in files
+
+Download the Power BI file or explore the visuals in the screenshot for full insights.
